@@ -21,3 +21,10 @@ Start app
 python manage.py startapp <appname>
 
 ```
+
+Migrate models class to database
+```
+python manage.py makemigrations
+python manage.py migrate
+
+```
