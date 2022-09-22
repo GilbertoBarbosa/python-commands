@@ -26,6 +26,6 @@ code .
 
 Install postgresql module 
 ```
-pip install psycopg2
+pip install psycopg2-binary
 
 ```
