@@ -29,3 +29,9 @@ Install postgresql module
 pip install psycopg2-binary
 
 ```
+
+Install image module 
+```
+pip install pillow
+
+```
