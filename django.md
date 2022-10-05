@@ -34,3 +34,9 @@ Create superuser
 python manage.py createsuperuser
 
 ```
+
+Install tempus-dominus library 
+```
+pip install django-tempus-dominus
+
+```
