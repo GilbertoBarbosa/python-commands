@@ -40,3 +40,9 @@ Install tempus-dominus library
 pip install django-tempus-dominus
 
 ```
+
+Install widget-tweaks library
+```
+pip install django-widget-tweaks
+
+```
