@@ -35,3 +35,10 @@ Install image module
 pip install pillow
 
 ```
+
+Install selenium library
+API to access Selenium WebDrivers like Firefox, Ie, Chrome, Remote etc
+```
+pip install selenium
+
+```
