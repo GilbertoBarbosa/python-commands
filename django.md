@@ -46,3 +46,9 @@ Install widget-tweaks library
 pip install django-widget-tweaks
 
 ```
+
+Collect static
+```
+python manage.py collectstatic
+
+```
