@@ -42,3 +42,10 @@ API to access Selenium WebDrivers like Firefox, Ie, Chrome, Remote etc
 pip install selenium
 
 ```
+
+Install validate-docbr library
+Validate CPF, CNPJ e CNS
+```
+pip install validate-docbr
+
+```
