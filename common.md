@@ -75,5 +75,8 @@ pytest
 pytest -v
 pytest -k <part name>
 pytest -m <tag>
+pytest --cov
+pytest --markers
+pytest --junitxml <file.xml>
 
 ```
