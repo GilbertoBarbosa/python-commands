@@ -18,6 +18,12 @@ deactivate
 
 ```
 
+Remove virtual env
+```
+rm -r venv
+
+```
+
 Checking all programs installed in virtual env
 ```
 pip freeze
