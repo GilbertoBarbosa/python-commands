@@ -65,6 +65,7 @@ pip install validate-docbr
 Install pytest
 ```
 pip install pytest
+pip install pytest-cov
 
 ```
 
