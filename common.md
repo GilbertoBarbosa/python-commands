@@ -12,6 +12,12 @@ source <pwd>venv/bin/activate
 
 ```
 
+Deactivate virtual env
+```
+deactivate
+
+```
+
 Checking all programs installed in virtual env
 ```
 pip freeze
