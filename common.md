@@ -73,5 +73,6 @@ Pytest commands
 pytest
 pytest -v
 pytest -k <part name>
+pytest -m <tag>
 
 ```
