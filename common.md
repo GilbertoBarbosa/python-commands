@@ -55,3 +55,9 @@ Validate CPF, CNPJ e CNS
 pip install validate-docbr
 
 ```
+
+Install pytest
+```
+pip install pytest
+
+```
