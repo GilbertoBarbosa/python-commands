@@ -67,3 +67,11 @@ Install pytest
 pip install pytest
 
 ```
+
+Pytest commands
+```
+pytest
+pytest -v
+pytest -k <part name>
+
+```
