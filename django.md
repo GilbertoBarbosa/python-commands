@@ -52,3 +52,10 @@ Collect static
 python manage.py collectstatic
 
 ```
+
+Install Django rest framework
+```
+pip install djangorestframework
+pip install markdown
+
+```
