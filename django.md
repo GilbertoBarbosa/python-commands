@@ -59,3 +59,9 @@ pip install djangorestframework
 pip install markdown
 
 ```
+
+Interactive Console Django
+```
+python manage.py shell
+
+```
