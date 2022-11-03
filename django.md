@@ -65,3 +65,9 @@ Interactive Console Django
 python manage.py shell
 
 ```
+
+Django filter
+```
+pip install django-filter
+
+```
