@@ -80,3 +80,9 @@ pytest --markers
 pytest --junitxml <file.xml>
 
 ```
+
+Install several programs by file
+```
+pip install -r requirements.txt
+
+```
