@@ -86,3 +86,9 @@ Install several programs by file
 pip install -r requirements.txt
 
 ```
+
+Install Faker library
+```
+pip install Faker
+
+```
