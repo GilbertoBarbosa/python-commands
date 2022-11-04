@@ -92,3 +92,9 @@ Install Faker library
 pip install Faker
 
 ```
+
+Install gunicorn
+```
+pip install gunicorn
+
+```
