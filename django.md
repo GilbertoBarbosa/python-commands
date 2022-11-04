@@ -71,3 +71,9 @@ Django filter
 pip install django-filter
 
 ```
+
+Django heroku
+```
+pip install django-heroku
+
+```
